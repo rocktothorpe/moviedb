@@ -11,4 +11,4 @@ __How to use:__
 * Next, use the __Search Bar__ on the main page to search for a movie you would like to see.
 * As part of the results, each movie showtime has a __Show ID__.
 * On the main page, click the __Buy Tickets__ button. On this page you can use your __Customer ID__ and the desired __Show ID__ to purchase a ticket.
-* Get some popcorn and __ENJOY THE SHOW_.
+* Get some popcorn and __ENJOY THE SHOW__.
